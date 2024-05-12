@@ -16,7 +16,7 @@
             <div class="text-warning">2023</div>
           </td>
           <td class="text-center">
-            <a class="text-6xl text-accent" href="https://blog.wyli.tech/2023">φ</a>
+            <a class="text-6xl text-accent" href="https://blog.wyli.tech/2024">φ</a>
             <div class="text-accent">2024</div>
           </td>
         </tr>
